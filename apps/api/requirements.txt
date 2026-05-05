@@ -1,0 +1,17 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+pydantic==2.11.4
+pydantic-settings==2.9.1
+SQLAlchemy==2.0.40
+psycopg[binary]==3.2.7
+redis==5.2.1
+celery==5.5.2
+httpx==0.28.1
+openai==1.77.0
+langgraph==0.4.1
+langsmith==0.3.42
+python-jose[cryptography]==3.4.0
+slowapi==0.1.9
+structlog==25.3.0
+pytest==8.3.5
+pytest-asyncio==0.26.0

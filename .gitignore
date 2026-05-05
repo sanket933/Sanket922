@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+.venv/
+node_modules/
+.next/
+dist/
+build/
+*.mp4
+*.mov
+*.srt
+.DS_Store
